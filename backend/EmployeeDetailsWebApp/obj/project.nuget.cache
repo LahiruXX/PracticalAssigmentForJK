@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OEV5fg5TbK56jbsVPq8Fprwdc3rV+j4AzzE77n1hikwYQ12yFANdIiRM5Nb4EDKL52bMZHhRznJtv8Blb8q7rQ==",
+  "dgSpecHash": "p/828xnpYk4CkfKVAsVUH8W4nChoDdlcEcnpTzWu28DwJQq6mxuqhL0rG2j3FJkXoo+OGh6+CH29FuQ/0Jrflg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Acer\\Downloads\\practical_assignment-main\\EmployeeDetailsWebApp\\EmployeeDetailsWebApp\\EmployeeDetailsWebApp.csproj",
+  "projectFilePath": "C:\\Users\\Acer\\Desktop\\New folder (4)\\PracticalAssigmentForJK\\backend\\EmployeeDetailsWebApp\\EmployeeDetailsWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.16\\microsoft.aspnetcore.jsonpatch.3.1.16.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.16\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.16.nupkg.sha512",

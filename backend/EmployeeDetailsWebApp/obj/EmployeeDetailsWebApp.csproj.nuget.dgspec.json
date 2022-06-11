@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\Downloads\\practical_assignment-main\\EmployeeDetailsWebApp\\EmployeeDetailsWebApp\\EmployeeDetailsWebApp.csproj": {}
+    "C:\\Users\\Acer\\Desktop\\New folder (4)\\PracticalAssigmentForJK\\backend\\EmployeeDetailsWebApp\\EmployeeDetailsWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\Downloads\\practical_assignment-main\\EmployeeDetailsWebApp\\EmployeeDetailsWebApp\\EmployeeDetailsWebApp.csproj": {
+    "C:\\Users\\Acer\\Desktop\\New folder (4)\\PracticalAssigmentForJK\\backend\\EmployeeDetailsWebApp\\EmployeeDetailsWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Downloads\\practical_assignment-main\\EmployeeDetailsWebApp\\EmployeeDetailsWebApp\\EmployeeDetailsWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\New folder (4)\\PracticalAssigmentForJK\\backend\\EmployeeDetailsWebApp\\EmployeeDetailsWebApp.csproj",
         "projectName": "EmployeeDetailsWebApp",
-        "projectPath": "C:\\Users\\Acer\\Downloads\\practical_assignment-main\\EmployeeDetailsWebApp\\EmployeeDetailsWebApp\\EmployeeDetailsWebApp.csproj",
+        "projectPath": "C:\\Users\\Acer\\Desktop\\New folder (4)\\PracticalAssigmentForJK\\backend\\EmployeeDetailsWebApp\\EmployeeDetailsWebApp.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Downloads\\practical_assignment-main\\EmployeeDetailsWebApp\\EmployeeDetailsWebApp\\obj\\",
+        "outputPath": "C:\\Users\\Acer\\Desktop\\New folder (4)\\PracticalAssigmentForJK\\backend\\EmployeeDetailsWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
